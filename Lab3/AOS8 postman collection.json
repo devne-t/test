@@ -220,7 +220,7 @@
 				"method": "POST",
 				"header": [],
 				"url": {
-					"raw": "https://10.1.X9.100:4343/v1/configuration/object/write_memory?config_path=mm&UIDARUBA={{SESSION}}\n",
+					"raw": "https://10.1.X9.100:4343/v1/configuration/object/write_memory?config_path=%2Fmm&UIDARUBA={{SESSION}}\n",
 					"protocol": "https",
 					"host": [
 						"10",
